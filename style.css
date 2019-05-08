@@ -28,7 +28,6 @@ table, th, td {
     width: 100%;
 }
 .holeDiv{
-    min-height: 250px;
     background-color: rgba(0, 85, 150, 0.18);
     margin-bottom: 20px;
     border: 1.5px solid rgba(153,153,153,0.5);
