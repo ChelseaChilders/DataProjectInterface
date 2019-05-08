@@ -5,16 +5,24 @@ body{
     background-color: #003DA5;
     color: whitesmoke;
     text-align: center;
+    margin-left: -30px;
     margin-bottom: 50px;
     padding: 20px;
+    width: 103vw;
+}
+.myFooter{
+    background-color: #003DA5;
+    color: whitesmoke;
+    text-align: center;
+    margin-left: -30px;
+    margin-top: 50px;
+    padding: 20px;
+    width: 103vw;
 }
 table, th, td {
     border: 1px solid black;
     background-color: white;
     margin-bottom: 10px;
-}
-img{
-    max-width: 30px;
 }
 .holeTable{
     width: 100%;
@@ -25,4 +33,7 @@ img{
     margin-bottom: 20px;
     border: 1.5px solid rgba(153,153,153,0.5);
     visibility: hidden;
+}
+.smImg{
+    max-width: 30px;
 }

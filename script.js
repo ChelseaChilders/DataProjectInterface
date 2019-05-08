@@ -40,7 +40,7 @@ var getHoleInfo = function(i, holeCount,results){
     var rowArray = [];
     while(j<holeCount){
         if (results["H"+i+"_From"+j]){
-            var hole_from = ["<img src='output_cells/H"+i+"_From"+j+".jpg'>"];
+            var hole_from = ["<img src='output_cells/H"+i+"_From"+j+".jpg' class='smImg'>"];
             getToken("From", results, i, j, hole_from);
             hole_from.push(results["H"+i+"_From"+j].result);
         } else {
@@ -48,7 +48,7 @@ var getHoleInfo = function(i, holeCount,results){
         }
 
         if (results["H"+i+"_Distance"+j]){
-            var hole_dist = ["<img src='output_cells/H"+i+"_Distance"+j+".jpg'>"];
+            var hole_dist = ["<img src='output_cells/H"+i+"_Distance"+j+".jpg' class='smImg'>"];
             getToken("Distance", results, i, j, hole_dist);
             hole_dist.push(results["H"+i+"_Distance"+j].result);
         } else {
@@ -56,7 +56,7 @@ var getHoleInfo = function(i, holeCount,results){
         }
 
         if (results["H"+i+"_ClubL"+j]){
-            var hole_clubL = ["<img src='output_cells/H"+i+"_ClubL"+j+".jpg'>"];
+            var hole_clubL = ["<img src='output_cells/H"+i+"_ClubL"+j+".jpg' class='smImg'>"];
             getToken("ClubL", results, i, j, hole_clubL);
             hole_clubL.push(results["H"+i+"_ClubL"+j].result);
         } else {
@@ -64,7 +64,7 @@ var getHoleInfo = function(i, holeCount,results){
         }
 
         if (results["H"+i+"_ClubR"+j]){
-            var hole_clubR = ["<img src='output_cells/H"+i+"_ClubR"+j+".jpg'>"];
+            var hole_clubR = ["<img src='output_cells/H"+i+"_ClubR"+j+".jpg' class='smImg'>"];
             getToken("ClubR", results, i, j, hole_clubR);
             hole_clubR.push(results["H"+i+"_ClubR"+j].result);
         } else {
@@ -72,7 +72,7 @@ var getHoleInfo = function(i, holeCount,results){
         }
 
         if (results["H"+i+"_LR"+j]){
-            var hole_LR = ["<img src='output_cells/H"+i+"_LR"+j+".jpg'>"];
+            var hole_LR = ["<img src='output_cells/H"+i+"_LR"+j+".jpg' class='smImg'>"];
             getToken("LR", results, i, j, hole_LR);
             hole_LR.push(results["H"+i+"_LR"+j].result);
         } else {
@@ -80,7 +80,7 @@ var getHoleInfo = function(i, holeCount,results){
         }
 
         if (results["H"+i+"_SP"+j]){
-            var hole_SP = ["<img src='output_cells/H"+i+"_SP"+j+".jpg'>"];
+            var hole_SP = ["<img src='output_cells/H"+i+"_SP"+j+".jpg' class='smImg'>"];
             getToken("SP", results, i, j, hole_SP);
             hole_SP.push(results["H"+i+"_SP"+j].result);
         } else {
@@ -88,7 +88,7 @@ var getHoleInfo = function(i, holeCount,results){
         }
 
         if (results["H"+i+"_Result"+j]){
-            var hole_Result = ["<img src='output_cells/H"+i+"_Result"+j+".jpg'>"];
+            var hole_Result = ["<img src='output_cells/H"+i+"_Result"+j+".jpg' class='smImg'>"];
             getToken("Result", results, i, j, hole_Result);
             hole_Result.push(results["H"+i+"_Result"+j].result);
         } else {
@@ -96,7 +96,7 @@ var getHoleInfo = function(i, holeCount,results){
         }
 
         if (results["H"+i+"_Recovery"+j]){
-            var hole_Recovery = ["<img src='output_cells/H"+i+"_Recovery"+j+".jpg'>"];
+            var hole_Recovery = ["<img src='output_cells/H"+i+"_Recovery"+j+".jpg' class='smImg'>"];
             getToken("Recovery", results, i, j, hole_Recovery);
             hole_Recovery.push(results["H"+i+"_Recovery"+j].result);
         } else {
@@ -134,7 +134,7 @@ var displayRowInfo = function(i, rowArray){
 var getToken = function(name, results, i, j, arr){
     var n = 0;
     while (n<results["H"+i+"_"+name+j].result.length){
-        arr.push("<img src='output_tokens/H"+i+"_"+name+j+"_"+n+".jpg' style='border: 5px solid "+getConfColor(results["H"+i+"_"+name+j].conf[0])+";'>");
+        arr.push("<img src='output_tokens/H"+i+"_"+name+j+"_"+n+".jpg' class='smImg' style='border: 5px solid "+getConfColor(results["H"+i+"_"+name+j].conf[0])+";'>");
         n++;
     }
 }
@@ -143,7 +143,10 @@ var getArrayItems = function(arr, gridN){
     var str = "<div class='col-sm-"+gridN+"'>";
     var i = 0;
     while(i<arr.length){
-        str = str.concat(arr[i]+"&nbsp");
+        str = str.concat(arr[i]);
+        if(i!=arr.length-1){
+           str = str.concat("&nbsp");
+        }
         i++;
     }
     str = str.concat("</div>");
