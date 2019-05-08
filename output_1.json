@@ -1,1812 +1,1257 @@
 {
     "H1_ClubL0": {
         "result": "4",
-        "conf": [
-            0.999998927116394
-        ],
+        "conf": "0.9999989",
         "error": 0
     },
     "H1_ClubL1": {
         "result": "8",
-        "conf": [
-            0.9999984502792358
-        ],
+        "conf": "0.99999845",
         "error": 0
     },
     "H1_ClubR0": {
         "result": "I",
-        "conf": [
-            0.9992017149925232
-        ],
+        "conf": "0.9992017",
         "error": 0
     },
     "H1_ClubR1": {
         "result": "I",
-        "conf": [
-            0.998059093952179
-        ],
+        "conf": "0.9980591",
         "error": 0
     },
     "H1_ClubR2": {
         "result": "P",
-        "conf": [
-            0.9982807636260986
-        ],
+        "conf": "0.99828076",
         "error": 0
     },
     "H1_ClubR3": {
         "result": "P",
-        "conf": [
-            0.6317355036735535
-        ],
+        "conf": "0.6317355",
         "error": 1
     },
     "H1_Distance0": {
         "result": "362",
-        "conf": [
-            1.0,
-            0.9964396357536316,
-            1.0
-        ],
+        "conf": "0.99643964",
         "error": 0
     },
     "H1_Distance1": {
         "result": "153",
-        "conf": [
-            0.9700165390968323,
-            1.0,
-            1.0
-        ],
+        "conf": "0.97001654",
         "error": 0
     },
     "H1_Distance2": {
         "result": "8",
-        "conf": [
-            0.9999998807907104
-        ],
+        "conf": "0.9999999",
         "error": 0
     },
     "H1_Distance3": {
         "result": "1",
-        "conf": [
-            0.987438976764679
-        ],
+        "conf": "0.987439",
         "error": 0
     },
     "H1_From0": {
         "result": "T",
-        "conf": [
-            0.9980373978614807
-        ],
+        "conf": "0.9980374",
         "error": 0
     },
     "H1_From1": {
         "result": "F",
-        "conf": [
-            0.999675989151001
-        ],
+        "conf": "0.999676",
         "error": 0
     },
     "H1_From2": {
         "result": "G",
-        "conf": [
-            0.9997803568840027
-        ],
+        "conf": "0.99978036",
         "error": 0
     },
     "H1_From3": {
         "result": "G",
-        "conf": [
-            0.9497062563896179
-        ],
+        "conf": "0.94970626",
         "error": 0
     },
     "H1_LR1": {
         "result": "L",
-        "conf": [
-            0.9988759160041809
-        ],
+        "conf": "0.9988759",
         "error": 0
     },
     "H1_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery2": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H1_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_ClubL0": {
         "result": "3",
-        "conf": [
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H2_ClubL1": {
         "result": "4",
-        "conf": [
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H2_ClubR0": {
         "result": "W",
-        "conf": [
-            0.9999998807907104
-        ],
+        "conf": "0.9999999",
         "error": 0
     },
     "H2_ClubR1": {
         "result": "I",
-        "conf": [
-            0.9988933205604553
-        ],
+        "conf": "0.9988933",
         "error": 0
     },
     "H2_ClubR2": {
         "result": "LW",
-        "conf": [
-            0.9994261264801025,
-            0.9999563694000244
-        ],
+        "conf": "0.9994261",
         "error": 0
     },
     "H2_ClubR3": {
         "result": "P",
-        "conf": [
-            0.9869250059127808
-        ],
+        "conf": "0.986925",
         "error": 0
     },
     "H2_Distance0": {
         "result": "504",
-        "conf": [
-            0.9953345656394958,
-            0.9997417330741882,
-            0.999994158744812
-        ],
+        "conf": "0.99533457",
         "error": 0
     },
     "H2_Distance1": {
         "result": "227",
-        "conf": [
-            1.0,
-            0.9999997615814209,
-            0.9990591406822205
-        ],
+        "conf": "0.99905914",
         "error": 0
     },
     "H2_Distance2": {
         "result": "13",
-        "conf": [
-            0.9683243036270142,
-            1.0
-        ],
+        "conf": "0.9683243",
         "error": 0
     },
     "H2_Distance3": {
         "result": "7",
-        "conf": [
-            0.9818599820137024
-        ],
+        "conf": "0.98186",
         "error": 0
     },
     "H2_From0": {
         "result": "T",
-        "conf": [
-            0.9997571110725403
-        ],
+        "conf": "0.9997571",
         "error": 0
     },
     "H2_From1": {
         "result": "F",
-        "conf": [
-            0.9995867609977722
-        ],
+        "conf": "0.99958676",
         "error": 0
     },
     "H2_From2": {
         "result": "F",
-        "conf": [
-            0.9999810457229614
-        ],
+        "conf": "0.99998105",
         "error": 0
     },
     "H2_From3": {
         "result": "FT",
-        "conf": [
-            0.9069047570228577,
-            0.9318321943283081
-        ],
-        "error": 1
+        "conf": "0.90690476",
+        "error": 0
     },
     "H2_LR0": {
         "result": "R",
-        "conf": [
-            0.9999552965164185
-        ],
+        "conf": "0.9999553",
         "error": 0
     },
     "H2_LR1": {
         "result": "TLT",
-        "conf": [
-            0.9959521293640137,
-            0.8822538256645203,
-            0.988139271736145
-        ],
-        "error": 1
+        "conf": "0.8822538",
+        "error": 0
     },
     "H2_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery2": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H2_Result0": {
         "result": "W",
-        "conf": [
-            0.9999996423721313
-        ],
+        "conf": "0.99999964",
         "error": 0
     },
     "H2_SP1": {
         "result": "S",
-        "conf": [
-            0.9999912977218628
-        ],
+        "conf": "0.9999913",
         "error": 0
     },
     "H2_SP2": {
         "result": "P",
-        "conf": [
-            0.9951672554016113
-        ],
+        "conf": "0.99516726",
         "error": 0
     },
     "H3_ClubL0": {
         "result": "7",
-        "conf": [
-            0.9997397065162659
-        ],
+        "conf": "0.9997397",
         "error": 0
     },
     "H3_ClubL1": {
         "result": "5",
-        "conf": [
-            0.9985480904579163
-        ],
+        "conf": "0.9985481",
         "error": 0
     },
     "H3_ClubR0": {
         "result": "I",
-        "conf": [
-            0.9902290105819702
-        ],
+        "conf": "0.990229",
         "error": 0
     },
     "H3_ClubR1": {
         "result": "R",
-        "conf": [
-            0.5259039998054504
-        ],
+        "conf": "0.525904",
         "error": 1
     },
     "H3_ClubR2": {
         "result": "P",
-        "conf": [
-            0.9999438524246216
-        ],
+        "conf": "0.99994385",
         "error": 0
     },
     "H3_ClubR3": {
         "result": "O",
-        "conf": [
-            0.5230416059494019
-        ],
+        "conf": "0.5230416",
         "error": 1
     },
     "H3_Distance0": {
         "result": "18",
-        "conf": [
-            0.9989632368087769,
-            0.9951481223106384
-        ],
-        "error": 1
+        "conf": "0.9951481",
+        "error": 0
     },
     "H3_Distance1": {
         "result": "38",
-        "conf": [
-            1.0,
-            0.9999901056289673
-        ],
+        "conf": "0.9999901",
         "error": 0
     },
     "H3_Distance2": {
         "result": "2",
-        "conf": [
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H3_Distance3": {
         "result": "4",
-        "conf": [
-            0.9999961853027344
-        ],
+        "conf": "0.9999962",
         "error": 0
     },
     "H3_From0": {
         "result": "T",
-        "conf": [
-            0.9993662238121033
-        ],
+        "conf": "0.9993662",
         "error": 0
     },
     "H3_From1": {
         "result": "G",
-        "conf": [
-            0.9404566287994385
-        ],
+        "conf": "0.9404566",
         "error": 0
     },
     "H3_From2": {
         "result": "G",
-        "conf": [
-            0.9704368114471436
-        ],
+        "conf": "0.9704368",
         "error": 0
     },
     "H3_From3": {
         "result": "O",
-        "conf": [
-            0.7827968001365662
-        ],
+        "conf": "0.7827968",
         "error": 1
     },
     "H3_LR0": {
         "result": "R",
-        "conf": [
-            0.9999990463256836
-        ],
+        "conf": "0.99999905",
         "error": 0
     },
     "H3_LR1": {
         "result": "RO",
-        "conf": [
-            0.9979735016822815,
-            0.8513088822364807
-        ],
-        "error": 1
+        "conf": "0.8513089",
+        "error": 0
     },
     "H3_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery2": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H3_SP1": {
         "result": "S",
-        "conf": [
-            0.9999998807907104
-        ],
+        "conf": "0.9999999",
         "error": 0
     },
     "H3_SP2": {
         "result": "S",
-        "conf": [
-            0.9999991655349731
-        ],
+        "conf": "0.99999917",
         "error": 0
     },
     "H4_ClubL0": {
         "result": "3",
-        "conf": [
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H4_ClubL1": {
         "result": "4",
-        "conf": [
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H4_ClubR0": {
         "result": "D",
-        "conf": [
-            0.9933918118476868
-        ],
+        "conf": "0.9933918",
         "error": 0
     },
     "H4_ClubR1": {
         "result": "GW",
-        "conf": [
-            0.6039077043533325,
-            0.9999715089797974
-        ],
+        "conf": "0.6039077",
         "error": 1
     },
     "H4_ClubR2": {
         "result": "P",
-        "conf": [
-            0.9994606375694275
-        ],
+        "conf": "0.99946064",
         "error": 0
     },
     "H4_ClubR3": {
         "result": "P",
-        "conf": [
-            0.9971924424171448
-        ],
+        "conf": "0.99719244",
         "error": 0
     },
     "H4_Distance0": {
         "result": "420",
-        "conf": [
-            0.9999990463256836,
-            0.999998927116394,
-            0.9997667670249939
-        ],
+        "conf": "0.99976677",
         "error": 0
     },
     "H4_Distance1": {
         "result": "126",
-        "conf": [
-            0.9970000386238098,
-            0.9999984502792358,
-            0.9999827146530151
-        ],
+        "conf": "0.99700004",
         "error": 0
     },
     "H4_Distance2": {
         "result": "33",
-        "conf": [
-            1.0,
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H4_Distance3": {
         "result": "1",
-        "conf": [
-            0.9996434450149536
-        ],
+        "conf": "0.99964345",
         "error": 0
     },
     "H4_From0": {
         "result": "T",
-        "conf": [
-            0.9995585083961487
-        ],
+        "conf": "0.9995585",
         "error": 0
     },
     "H4_From1": {
         "result": "W",
-        "conf": [
-            0.9999936819076538
-        ],
+        "conf": "0.9999937",
         "error": 0
     },
     "H4_From2": {
         "result": "G",
-        "conf": [
-            0.9954583644866943
-        ],
+        "conf": "0.99545836",
         "error": 0
     },
     "H4_From3": {
         "result": "G",
-        "conf": [
-            0.9974574446678162
-        ],
+        "conf": "0.99745744",
         "error": 0
     },
     "H4_LR0": {
         "result": "R",
-        "conf": [
-            0.9999552965164185
-        ],
+        "conf": "0.9999553",
         "error": 0
     },
     "H4_LR1": {
         "result": "L",
-        "conf": [
-            0.9954637885093689
-        ],
+        "conf": "0.9954638",
         "error": 0
     },
     "H4_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery2": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H4_Result0": {
         "result": "W",
-        "conf": [
-            0.9999996423721313
-        ],
+        "conf": "0.99999964",
         "error": 0
     },
     "H4_SP1": {
         "result": "S",
-        "conf": [
-            0.9999926090240479
-        ],
+        "conf": "0.9999926",
         "error": 0
     },
     "H4_SP2": {
         "result": "P",
-        "conf": [
-            0.9951672554016113
-        ],
+        "conf": "0.99516726",
         "error": 0
     },
     "H5_ClubL2": {
         "result": "9",
-        "conf": [
-            0.9837741851806641
-        ],
+        "conf": "0.9837742",
         "error": 0
     },
     "H5_ClubR0": {
         "result": "D",
-        "conf": [
-            0.9999227523803711
-        ],
+        "conf": "0.99992275",
         "error": 0
     },
     "H5_ClubR1": {
         "result": "D",
-        "conf": [
-            0.9785336852073669
-        ],
+        "conf": "0.9785337",
         "error": 0
     },
     "H5_ClubR2": {
         "result": "I",
-        "conf": [
-            0.998867392539978
-        ],
+        "conf": "0.9988674",
         "error": 0
     },
     "H5_ClubR3": {
         "result": "SW",
-        "conf": [
-            0.9999958276748657,
-            0.9999978542327881
-        ],
+        "conf": "0.9999958",
         "error": 0
     },
     "H5_ClubR4": {
         "result": "LW",
-        "conf": [
-            0.9895148277282715,
-            0.9999556541442871
-        ],
+        "conf": "0.9895148",
         "error": 0
     },
     "H5_ClubR5": {
         "result": "P",
-        "conf": [
-            0.9997897744178772
-        ],
+        "conf": "0.9997898",
         "error": 0
     },
     "H5_Distance0": {
         "result": "428",
-        "conf": [
-            0.955313503742218,
-            1.0,
-            1.0
-        ],
+        "conf": "0.9553135",
         "error": 0
     },
     "H5_Distance1": {
         "result": "428",
-        "conf": [
-            0.9999288320541382,
-            0.9999983310699463,
-            1.0
-        ],
+        "conf": "0.99992883",
         "error": 0
     },
     "H5_Distance2": {
         "result": "139",
-        "conf": [
-            0.9998431205749512,
-            0.9999998807907104,
-            0.9998481273651123
-        ],
+        "conf": "0.9998431",
         "error": 0
     },
     "H5_Distance3": {
         "result": "80",
-        "conf": [
-            0.9999980926513672,
-            0.999890923500061
-        ],
+        "conf": "0.9998909",
         "error": 0
     },
     "H5_Distance4": {
         "result": "13",
-        "conf": [
-            0.9997696280479431,
-            1.0
-        ],
+        "conf": "0.9997696",
         "error": 0
     },
     "H5_Distance5": {
         "result": "3",
-        "conf": [
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H5_From0": {
         "result": "T",
-        "conf": [
-            0.9988952279090881
-        ],
+        "conf": "0.9988952",
         "error": 0
     },
     "H5_From1": {
         "result": "T",
-        "conf": [
-            0.99959796667099
-        ],
+        "conf": "0.99959797",
         "error": 0
     },
     "H5_From2": {
         "result": "R",
-        "conf": [
-            0.9992005228996277
-        ],
+        "conf": "0.9992005",
         "error": 0
     },
     "H5_From3": {
         "result": "F",
-        "conf": [
-            0.9999052286148071
-        ],
+        "conf": "0.9999052",
         "error": 0
     },
     "H5_From4": {
         "result": "F",
-        "conf": [
-            0.9999911785125732
-        ],
+        "conf": "0.9999912",
         "error": 0
     },
     "H5_From5": {
         "result": "G",
-        "conf": [
-            0.9829643368721008
-        ],
+        "conf": "0.98296434",
         "error": 0
     },
     "H5_LR0": {
         "result": "R",
-        "conf": [
-            0.999993085861206
-        ],
+        "conf": "0.9999931",
         "error": 0
     },
     "H5_LR1": {
         "result": "L",
-        "conf": [
-            0.8959763050079346
-        ],
+        "conf": "0.8959763",
         "error": 0
     },
     "H5_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery2": {
         "result": "Y",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H5_Result0": {
         "result": "OB",
-        "conf": [
-            0.9909332990646362,
-            0.9999815225601196
-        ],
+        "conf": "0.9909333",
         "error": 0
     },
     "H5_SP2": {
         "result": "S",
-        "conf": [
-            0.9999973773956299
-        ],
+        "conf": "0.9999974",
         "error": 0
     },
     "H5_SP3": {
         "result": "S",
-        "conf": [
-            0.9999967813491821
-        ],
+        "conf": "0.9999968",
         "error": 0
     },
     "H6_ClubL0": {
         "result": "9",
-        "conf": [
-            0.999586284160614
-        ],
+        "conf": "0.9995863",
         "error": 0
     },
     "H6_ClubL1": {
         "result": "6",
-        "conf": [
-            0.9999994039535522
-        ],
+        "conf": "0.9999994",
         "error": 0
     },
     "H6_ClubR0": {
         "result": "I",
-        "conf": [
-            0.9685124754905701
-        ],
+        "conf": "0.9685125",
         "error": 0
     },
     "H6_ClubR1": {
         "result": "W",
-        "conf": [
-            0.999995231628418
-        ],
-        "error": 1
+        "conf": "0.99999523",
+        "error": 0
     },
     "H6_ClubR2": {
         "result": "P",
-        "conf": [
-            0.9990574717521667
-        ],
+        "conf": "0.9990575",
         "error": 0
     },
     "H6_ClubR3": {
         "result": "P",
-        "conf": [
-            0.6013973951339722
-        ],
+        "conf": "0.6013974",
         "error": 1
     },
     "H6_Distance0": {
         "result": "138",
-        "conf": [
-            0.9956901669502258,
-            1.0,
-            0.9999990463256836
-        ],
+        "conf": "0.99569017",
         "error": 0
     },
     "H6_Distance1": {
         "result": "17",
-        "conf": [
-            0.9939216375350952,
-            0.9983043670654297
-        ],
+        "conf": "0.99392164",
         "error": 0
     },
     "H6_Distance2": {
         "result": "26",
-        "conf": [
-            0.9999231100082397,
-            0.9999005794525146
-        ],
+        "conf": "0.9999006",
         "error": 0
     },
     "H6_Distance3": {
         "result": "2",
-        "conf": [
-            0.9999997615814209
-        ],
+        "conf": "0.99999976",
         "error": 0
     },
     "H6_From0": {
         "result": "T",
-        "conf": [
-            0.9989722967147827
-        ],
+        "conf": "0.9989723",
         "error": 0
     },
     "H6_From1": {
         "result": "R",
-        "conf": [
-            0.99030601978302
-        ],
+        "conf": "0.990306",
         "error": 0
     },
     "H6_From2": {
         "result": "G",
-        "conf": [
-            0.9992077946662903
-        ],
+        "conf": "0.9992078",
         "error": 0
     },
     "H6_From3": {
         "result": "G",
-        "conf": [
-            0.9980729818344116
-        ],
+        "conf": "0.998073",
         "error": 0
     },
     "H6_LR0": {
         "result": "U",
-        "conf": [
-            0.6080771684646606
-        ],
+        "conf": "0.60807717",
         "error": 1
     },
     "H6_LR1": {
         "result": "L",
-        "conf": [
-            0.9822171926498413
-        ],
+        "conf": "0.9822172",
         "error": 0
     },
     "H6_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery2": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H6_SP1": {
         "result": "P",
-        "conf": [
-            0.9984632730484009
-        ],
+        "conf": "0.9984633",
         "error": 0
     },
     "H7_ClubL0": {
         "result": "7",
-        "conf": [
-            0.9997397065162659
-        ],
+        "conf": "0.9997397",
         "error": 0
     },
     "H7_ClubL1": {
         "result": "5",
-        "conf": [
-            0.9985480904579163
-        ],
+        "conf": "0.9985481",
         "error": 0
     },
     "H7_ClubR0": {
         "result": "D",
-        "conf": [
-            0.9995554089546204
-        ],
+        "conf": "0.9995554",
         "error": 0
     },
     "H7_ClubR1": {
         "result": "I",
-        "conf": [
-            0.9979323148727417
-        ],
+        "conf": "0.9979323",
         "error": 0
     },
     "H7_ClubR2": {
         "result": "P",
-        "conf": [
-            0.9996405839920044
-        ],
+        "conf": "0.9996406",
         "error": 0
     },
     "H7_ClubR3": {
         "result": "O",
-        "conf": [
-            0.5230416059494019
-        ],
+        "conf": "0.5230416",
         "error": 1
     },
     "H7_Distance1": {
         "result": "190",
-        "conf": [
-            0.9988933205604553,
-            0.9509356021881104,
-            0.9983047246932983
-        ],
+        "conf": "0.9509356",
         "error": 0
     },
     "H7_Distance2": {
         "result": "31",
-        "conf": [
-            1.0,
-            0.9984849095344543
-        ],
+        "conf": "0.9984849",
         "error": 0
     },
     "H7_Distance3": {
         "result": "4",
-        "conf": [
-            0.9999961853027344
-        ],
+        "conf": "0.9999962",
         "error": 0
     },
     "H7_From0": {
         "result": "T",
-        "conf": [
-            0.9978164434432983
-        ],
+        "conf": "0.99781644",
         "error": 0
     },
     "H7_From1": {
         "result": "F",
-        "conf": [
-            0.9992075562477112
-        ],
+        "conf": "0.99920756",
         "error": 0
     },
     "H7_From2": {
         "result": "G",
-        "conf": [
-            0.9295234680175781
-        ],
+        "conf": "0.92952347",
         "error": 0
     },
     "H7_From3": {
         "result": "O",
-        "conf": [
-            0.7827968001365662
-        ],
+        "conf": "0.7827968",
         "error": 1
     },
     "H7_LR0": {
         "result": "R",
-        "conf": [
-            0.9999990463256836
-        ],
+        "conf": "0.99999905",
         "error": 0
     },
     "H7_LR1": {
         "result": "RO",
-        "conf": [
-            0.9979735016822815,
-            0.8513088822364807
-        ],
-        "error": 1
+        "conf": "0.8513089",
+        "error": 0
     },
     "H7_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery2": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H7_SP1": {
         "result": "S",
-        "conf": [
-            0.9999998807907104
-        ],
+        "conf": "0.9999999",
         "error": 0
     },
     "H7_SP2": {
         "result": "S",
-        "conf": [
-            0.9999991655349731
-        ],
+        "conf": "0.99999917",
         "error": 0
     },
     "H8_ClubL0": {
         "result": "3",
-        "conf": [
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H8_ClubL1": {
         "result": "6",
-        "conf": [
-            0.9999994039535522
-        ],
+        "conf": "0.9999994",
         "error": 0
     },
     "H8_ClubR0": {
         "result": "W",
-        "conf": [
-            0.9997875094413757
-        ],
+        "conf": "0.9997875",
         "error": 0
     },
     "H8_ClubR1": {
         "result": "I",
-        "conf": [
-            0.9933926463127136
-        ],
+        "conf": "0.99339265",
         "error": 0
     },
     "H8_ClubR2": {
         "result": "P",
-        "conf": [
-            0.9852077960968018
-        ],
+        "conf": "0.9852078",
         "error": 0
     },
     "H8_ClubR3": {
         "result": "P",
-        "conf": [
-            0.9997721314430237
-        ],
+        "conf": "0.99977213",
         "error": 0
     },
     "H8_Distance0": {
         "result": "376",
-        "conf": [
-            1.0,
-            0.9999570846557617,
-            0.99982088804245
-        ],
+        "conf": "0.9998209",
         "error": 0
     },
     "H8_Distance1": {
         "result": "160",
-        "conf": [
-            0.9992395639419556,
-            0.9997537732124329,
-            0.9993473887443542
-        ],
+        "conf": "0.99923956",
         "error": 0
     },
     "H8_Distance2": {
         "result": "18",
-        "conf": [
-            0.9991950392723083,
-            1.0
-        ],
+        "conf": "0.99919504",
         "error": 0
     },
     "H8_Distance3": {
         "result": "0",
-        "conf": [
-            0.8925788998603821
-        ],
+        "conf": "0.8925789",
         "error": 0
     },
     "H8_From0": {
         "result": "T",
-        "conf": [
-            0.999373733997345
-        ],
+        "conf": "0.99937373",
         "error": 0
     },
     "H8_From1": {
         "result": "F",
-        "conf": [
-            0.9999668598175049
-        ],
+        "conf": "0.99996686",
         "error": 0
     },
     "H8_From2": {
         "result": "G",
-        "conf": [
-            0.9401638507843018
-        ],
+        "conf": "0.94016385",
         "error": 0
     },
     "H8_From3": {
         "result": "G",
-        "conf": [
-            0.7556617856025696
-        ],
+        "conf": "0.7556618",
         "error": 1
     },
     "H8_LR0": {
         "result": "U",
-        "conf": [
-            0.6080771684646606
-        ],
+        "conf": "0.60807717",
         "error": 1
     },
     "H8_LR1": {
         "result": "L",
-        "conf": [
-            0.9822171926498413
-        ],
+        "conf": "0.9822172",
         "error": 0
     },
     "H8_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery2": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H8_SP1": {
         "result": "P",
-        "conf": [
-            0.994750440120697
-        ],
+        "conf": "0.99475044",
         "error": 0
     },
     "H9_ClubL0": {
         "result": "5",
-        "conf": [
-            0.9999905824661255
-        ],
+        "conf": "0.9999906",
         "error": 0
     },
     "H9_ClubR0": {
         "result": "W",
-        "conf": [
-            0.9999984502792358
-        ],
+        "conf": "0.99999845",
         "error": 0
     },
     "H9_ClubR1": {
         "result": "RU",
-        "conf": [
-            0.9325476288795471,
-            0.6460986137390137
-        ],
+        "conf": "0.6460986",
         "error": 1
     },
     "H9_ClubR2": {
         "result": "P",
-        "conf": [
-            0.9984558820724487
-        ],
+        "conf": "0.9984559",
         "error": 0
     },
     "H9_ClubR3": {
         "result": "D",
-        "conf": [
-            0.9140689373016357
-        ],
-        "error": 1
+        "conf": "0.91406894",
+        "error": 0
     },
     "H9_Distance0": {
         "result": "345",
-        "conf": [
-            1.0,
-            0.9999853372573853,
-            0.9996623992919922
-        ],
+        "conf": "0.9996624",
         "error": 0
     },
     "H9_Distance1": {
         "result": "113",
-        "conf": [
-            0.9983506202697754,
-            0.9951021671295166,
-            1.0
-        ],
+        "conf": "0.99510217",
         "error": 0
     },
     "H9_Distance2": {
         "result": "41",
-        "conf": [
-            0.9999346733093262,
-            0.9967857599258423
-        ],
+        "conf": "0.99678576",
         "error": 0
     },
     "H9_Distance3": {
         "result": "3",
-        "conf": [
-            1.0
-        ],
+        "conf": "1.0",
         "error": 0
     },
     "H9_From0": {
         "result": "T",
-        "conf": [
-            0.9976834058761597
-        ],
+        "conf": "0.9976834",
         "error": 0
     },
     "H9_From1": {
         "result": "F",
-        "conf": [
-            0.9999861717224121
-        ],
+        "conf": "0.9999862",
         "error": 0
     },
     "H9_From2": {
         "result": "TO",
-        "conf": [
-            0.5848586559295654,
-            0.6141355037689209
-        ],
+        "conf": "0.58485866",
         "error": 1
     },
     "H9_From3": {
         "result": "G",
-        "conf": [
-            0.9982085227966309
-        ],
+        "conf": "0.9982085",
         "error": 0
     },
     "H9_LR1": {
         "result": "L",
-        "conf": [
-            0.9945003986358643
-        ],
+        "conf": "0.9945004",
         "error": 0
     },
     "H9_Recovery0": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery1": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery2": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery3": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery4": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery5": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery6": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery7": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery8": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_Recovery9": {
         "result": "N",
-        "conf": [
-            1.0
-        ],
+        "conf": "1",
         "error": 0
     },
     "H9_SP2": {
         "result": "S",
-        "conf": [
-            0.9999996423721313
-        ],
+        "conf": "0.99999964",
         "error": 0
     }
 }
