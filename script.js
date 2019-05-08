@@ -154,6 +154,12 @@ var getArrayItems = function(arr, gridN){
 }
 
 var getConfColor = function(conf){
-    
-    return "rgb(100%, "+conf*100+"%, 0%)";
+    if(conf >= .95){
+        conf=conf*100;
+    }else if(conf<.95 && conf >= .80){
+        conf=conf*80;
+    }else{
+        conf=conf;
+    }
+    return "rgb(100%, "+conf+"%, 0%)";
 }
