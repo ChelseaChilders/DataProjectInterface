@@ -41,7 +41,7 @@ var getHoleInfo = function(i, holeCount,results){
     while(j<holeCount){
         if (results["H"+i+"_From"+j]){
             var hole_from = ["<img src='output_cells/H"+i+"_From"+j+".jpg'>"];
-            hole_from.push("<img src='output_tokens/H"+i+"_From"+j+"_0.jpg' style='border: 10px solid "+getConfColor(results["H"+i+"_From"+j].conf[0])+";'>");
+            getToken("From", results, i, j, hole_from);
             hole_from.push(results["H"+i+"_From"+j].result);
         } else {
             var hole_from = ["","",""];
@@ -60,7 +60,7 @@ var getHoleInfo = function(i, holeCount,results){
             getToken("ClubL", results, i, j, hole_clubL);
             hole_clubL.push(results["H"+i+"_ClubL"+j].result);
         } else {
-            var hole_clubL = ["&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp","&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp","&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp"];
+            var hole_clubL = [""];
         }
 
         if (results["H"+i+"_ClubR"+j]){
@@ -134,7 +134,7 @@ var displayRowInfo = function(i, rowArray){
 var getToken = function(name, results, i, j, arr){
     var n = 0;
     while (n<results["H"+i+"_"+name+j].result.length){
-        arr.push("<img src='output_tokens/H"+i+"_"+name+j+"_"+n+".jpg' style='border: 10px solid "+getConfColor(results["H"+i+"_"+name+j].conf[0])+";'>");
+        arr.push("<img src='output_tokens/H"+i+"_"+name+j+"_"+n+".jpg' style='border: 5px solid "+getConfColor(results["H"+i+"_"+name+j].conf[0])+";'>");
         n++;
     }
 }
@@ -143,7 +143,7 @@ var getArrayItems = function(arr, gridN){
     var str = "<div class='col-sm-"+gridN+"'>";
     var i = 0;
     while(i<arr.length){
-        str = str.concat(arr[i]+"&nbsp&nbsp");
+        str = str.concat(arr[i]+"&nbsp");
         i++;
     }
     str = str.concat("</div>");
