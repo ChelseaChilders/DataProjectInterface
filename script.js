@@ -122,18 +122,13 @@ var displayRowInfo = function(i, rowArray){
     var cell5 = row.insertCell(-1);
     var cell6 = row.insertCell(-1);
     var cell7 = row.insertCell(-1);
-    cell1.innerHTML = rowArray[0]
-    cell2.innerHTML = rowArray[1];
-    cell3.innerHTML = "<span>"+rowArray[2][0]+"&nbsp&nbsp&nbsp"+rowArray[2][1]+"&nbsp&nbsp&nbsp"+rowArray[2][2]+"</span><span style='border-left: 1px solid black; margin-left: 5px; padding-left: 5px;'>"+rowArray[3][0]+"&nbsp&nbsp&nbsp"+rowArray[3][1]+"&nbsp&nbsp&nbsp"+rowArray[3][2]+"</span>";
-    cell4.innerHTML = rowArray[4];
-    cell5.innerHTML = rowArray[5];
-    cell6.innerHTML = rowArray[6];
-    cell7.innerHTML = rowArray[7];
-}
-
-var insertData = function(rowArray, n){
-    console.log("^^^^^^^^"+rowArray[n][1]);
-    return(rowArray[n][0]+"&nbsp&nbsp&nbsp"+rowArray[n][1]+"&nbsp&nbsp&nbsp"+rowArray[n][2]);
+    cell1.innerHTML = getArrayItems(rowArray[0], 12);
+    cell2.innerHTML = getArrayItems(rowArray[1], 12);
+    cell3.innerHTML = "<div class='row'>"+getArrayItems(rowArray[2], 6)+getArrayItems(rowArray[3], 6)+"</div>";
+    cell4.innerHTML = getArrayItems(rowArray[4], 12);
+    cell5.innerHTML = getArrayItems(rowArray[5], 12);
+    cell6.innerHTML = getArrayItems(rowArray[6], 12);
+    cell7.innerHTML = getArrayItems(rowArray[7], 12);
 }
 
 var getToken = function(name, results, i, j, arr){
@@ -144,8 +139,18 @@ var getToken = function(name, results, i, j, arr){
     }
 }
 
+var getArrayItems = function(arr, gridN){
+    var str = "<div class='col-sm-"+gridN+"'>";
+    var i = 0;
+    while(i<arr.length){
+        str = str.concat(arr[i]+"&nbsp&nbsp");
+        i++;
+    }
+    str = str.concat("</div>");
+    return(str);
+}
+
 var getConfColor = function(conf){
-    console.log("b4: "+conf);
-    //confNeg = 99;
-    return "rgb(100%, "+conf+"%, 0%)";
+    
+    return "rgb(100%, "+conf*100+"%, 0%)";
 }
